@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk
 
+#print()
 def calculate(*args):
     try:
         value = float(feet.get())
