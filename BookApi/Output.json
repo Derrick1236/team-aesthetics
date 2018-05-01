@@ -1,0 +1,762 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 3194,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5_AEiJXbyiEC",
+   "etag": "SLgWkxsBv5M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5_AEiJXbyiEC",
+   "volumeInfo": {
+    "title": "SQL Server 2005 T-SQL Recipes",
+    "subtitle": "A Problem-Solution Approach",
+    "authors": [
+     "Joseph Sack"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2006-11-10",
+    "description": "* Comprehensive T-SQL Coverage, including all SQL Server 2005 new features, from an established SQL Server expert and author. * Broad appeal, with practical ‘How to’ answers to common SQL Server T-SQL questions for both novice and advanced DBAs and developers. * Unique, easy-reference format – ideal for preparing for a SQL Server job interview, or for a SQL Server certification test",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1430200995"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430200994"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 768,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=5_AEiJXbyiEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=5_AEiJXbyiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=5_AEiJXbyiEC&pg=PA637&dq=t&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=5_AEiJXbyiEC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-5_AEiJXbyiEC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 82.49,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 57.25,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=5_AEiJXbyiEC&rdid=book-5_AEiJXbyiEC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.249E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.725E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/SQL_Server_2005_T_SQL_Recipes-sample-pdf.acsm?id=5_AEiJXbyiEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=5_AEiJXbyiEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "No matter which indexes I tried to add, or query modifications I made, I couldn&#39;\u003cb\u003et\u003c/b\u003e \u003cbr\u003e\nget its duration lowered. This was because there were simply too many rows \u003cbr\u003e\nrequired in the result set. The limiting factor was the I/O. A few months later, I \u003cbr\u003e\nmigrated the database to the higherpowered production server. Lo and behold, \u003cbr\u003e\nthe query executed consistently in less than one second. This underscores the \u003cbr\u003e\nfact that CPU, memory, and RAID subsystems can have a significant impact (both \u003cbr\u003e\npositive and&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dmxtU-TxTi4C",
+   "etag": "hQW5S2IRqSs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dmxtU-TxTi4C",
+   "volumeInfo": {
+    "title": "Multivariate T-Distributions and Their Applications",
+    "authors": [
+     "Samuel Kotz",
+     "Saralees Nadarajah"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2004-02-16",
+    "description": "Almost all the results available in the literature on multivariate t-distributions published in the last 50 years are now collected together in this comprehensive reference. Because these distributions are becoming more prominent in many applications, this book is a must for any serious researcher or consultant working in multivariate analysis and statistical distributions. Much of this material has never before appeared in book form. The first part of the book emphasizes theoretical results of a probabilistic nature. In the second part of the book, these are supplemented by a variety of statistical aspects. Various generalizations and applications are dealt with in the final chapters. The material on estimation and regression models is of special value for practitioners in statistics and economics. A comprehensive bibliography of over 350 references is included.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521826543"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521826549"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=dmxtU-TxTi4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=dmxtU-TxTi4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=dmxtU-TxTi4C&pg=PA119&dq=t&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=dmxtU-TxTi4C&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Multivariate_T_Distributions_and_Their_A.html?hl=&id=dmxtU-TxTi4C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=dmxtU-TxTi4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "as having the standard matrix \u003cb\u003et\u003c/b\u003e distribution. In the notation of (5.37), this would \u003cbr\u003e\ncorrespond to ft = 0, R = Ip, Q = In, and m = S + n+p— 1. Under Dawid&#39;s \u003cbr\u003e\nparameterization, if X* is a n* x p* submatrix of X, then X* has the matrix \u003cb\u003et\u003c/b\u003e \u003cbr\u003e\ndistribution with parameters In- , Ip- , and S: Note that 6 is unchanged. This kind \u003cbr\u003e\nof consistency enabled Dawid (1981) to construct what is termed as the standard \u003cbr\u003e\ninfinite matrix \u003cb\u003et\u003c/b\u003e distribution. Namely, X = {xij,i &gt;l,j&gt; 1} is said to have the above-\u003cbr\u003e\nnamed distribution if it&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QO0w8BPhODsC",
+   "etag": "Eb0srrHlMTI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QO0w8BPhODsC",
+   "volumeInfo": {
+    "title": "Gamma-delta T Cells",
+    "authors": [
+     "Paul R. Bergstresser",
+     "Akira Takashima"
+    ],
+    "publisher": "Karger Medical and Scientific Publishers",
+    "publishedDate": "2001-01-01",
+    "description": "Over the last 15 years, since the discovery of the T cell receptor and genes, rapid progress has been made toward the understanding of the biology of T cells. They differ from conventional T cells not only in T cell receptor composition, but also in their development, tissue distribution, and physiological functions. This volume contains seven chapters contributed by experts on different aspects of T cells, including the natural ligands for T cell receptors, IL-7-dependent regulation of T cell development, cytokine-mediated inter-cellular communication of T cells with other cell types, and their physiological functions in innate and adaptive immune responses. The comprehensive review articles collected in this volume will be of interest to basic immunologists who wish to update their knowledge on the biology of T cells. The book also provides a unique opportunity for non-immunologists and clinicians to understand how the immune system is specifically equipped to protect the body against pathogens at the environmental interface.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783805572057"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3805572050"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 142,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QO0w8BPhODsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QO0w8BPhODsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=QO0w8BPhODsC&pg=PA1&dq=t&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=QO0w8BPhODsC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Gamma_delta_T_Cells.html?hl=&id=QO0w8BPhODsC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QO0w8BPhODsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "RebeccaL. O&#39;Briena, Michael Lahna, WilliK. Borna, Sally A. Huberb a Department \u003cbr\u003e\nof Immunology, National Jewish Medical and Research Center, Denver, Colo., \u003cbr\u003e\nand b Department of Pathology, University of Vermont, Colchester, Vt., USA \u003cbr\u003e\nAlthough the \u003cb\u003eT\u003c/b\u003e cell receptor (TCR)-Á genes [1] were initially considered by some \u003cbr\u003e\nto be no more than evolutionary flotsam, it soon became clear that cell surface \u003cbr\u003e\nreceptors bearing TCR-Á-gene-encoded products could be found on a small \u003cbr\u003e\npercentage&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HZIq5-_hu5cC",
+   "etag": "4P4HaDeMBlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HZIq5-_hu5cC",
+   "volumeInfo": {
+    "title": "Nitrate Won't Wait",
+    "subtitle": "A History of Film Preservation in the United States",
+    "authors": [
+     "Anthony Slide"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2000-01-01",
+    "description": "This study looks at the preservation process: newsreel, television, and color preservation; the often controversial issue of colorization; and commercial film archives. It provides detailed histories of the major players in the preservation battle including the International Museum of Photography at George Eastman House, the American Film Institute, the Museum of Modern Art, the UCLA Film and Television Archive, and the Library of Congress. This first historical overview of film preservation in the United States is also highly controversial in its exposure and criticism of the politicization of film preservation in recent years, and the rising bureaucracy which has often lost sight of preservation and restoration as the ultimate purpose of film archives.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786408367"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786408368"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=HZIq5-_hu5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=HZIq5-_hu5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=HZIq5-_hu5cC&pg=PA1&dq=t&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=HZIq5-_hu5cC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Nitrate_Won_t_Wait.html?hl=&id=HZIq5-_hu5cC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Nitrate_Won_t_Wait-sample-epub.acsm?id=HZIq5-_hu5cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HZIq5-_hu5cC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;Nitrate Won&#39;\u003cb\u003et\u003c/b\u003e Wait!&quot; has become the rallying cry for film archivists, in their efforts \u003cbr\u003e\nto raise funds as well as public consciousness of the need for such funds in the \u003cbr\u003e\npreservation of the world&#39;s film heritage. It is a phrase whose origins and history \u003cbr\u003e\nare as convoluted as the history of film preservation. It was originally coined in \u003cbr\u003e\nthe late 1960s by Sam Kula, archivist at the American Film Institute from the \u003cbr\u003e\nsummer of 1968 to the summer or 1973, in the form of &quot;Nitrate Will Not Wait.&quot; He \u003cbr\u003e\nused it at a&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X-SzZH9i5_MC",
+   "etag": "fnCHjOl3CMs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X-SzZH9i5_MC",
+   "volumeInfo": {
+    "title": "T Cell Regulation in Allergy, Asthma and Atopic Skin Diseases",
+    "authors": [
+     "Kurt Blaser"
+    ],
+    "publisher": "Karger Medical and Scientific Publishers",
+    "publishedDate": "2008-01-01",
+    "description": "This book presents the state of the art in cellular and molecular mechanisms regulating the immune response in allergic inflammation. Special attention is given to the central role of regulatory T cells (Treg) in immune regulation and induction of peripheral tolerance, as well as to the relevance of Th17 cells in chronic inflammation. The importance of Treg and Th17 cells is demonstrated in bronchial asthma, atopic eczema, contact dermatitis and delayed-type hypersensitivity. Furthermore, T-cell-mediated regulatory mechanisms in helminthic infections and fungal allergy are discussed. Several chapters are devoted to the therapeutic consequences that these recently discovered T-cell functions may have. Their role as a potential target for specific immunotherapy is evaluated and novel approaches for peripheral tolerance induction and treatment of allergic and asthmatic diseases and inflammation are suggested. Stem cell transplantation as a future therapeutic intervention in regulatory T-cell disorders is also considered. Well edited and up to date, this volume is recommended reading for allergologists, immunologists, dermatologists and any scientist interested in the immunological events regulating allergic inflammation in general and allergic manifestations in different organs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783805586283"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3805586280"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 225,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=X-SzZH9i5_MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=X-SzZH9i5_MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=X-SzZH9i5_MC&pg=PA1&dq=t&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=X-SzZH9i5_MC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/T_Cell_Regulation_in_Allergy_Asthma_and.html?hl=&id=X-SzZH9i5_MC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=X-SzZH9i5_MC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Allergen-specific \u003cb\u003eT\u003c/b\u003e cells are assumed to play a key role in the sensitization phase \u003cbr\u003e\nand in immunological memory. Current immunological concepts suggest that \u003cbr\u003e\nasymptomaticT-cell memory cells also exist, tagging the allergen as harmless \u003cbr\u003e\nand preventing an inappropriate response and thus allergic symptoms. \u003cbr\u003e\nProinflammatory \u003cb\u003eT\u003c/b\u003e cells mediate allergic inflammation by exceeding the induction \u003cbr\u003e\nof IgE and competing with other \u003cb\u003eT\u003c/b\u003e-cell subsets. Therefore, molecular mechanisms \u003cbr\u003e\nleading to&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G_UjERPhyfQC",
+   "etag": "Liq5mWmOLgA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G_UjERPhyfQC",
+   "volumeInfo": {
+    "title": "Don't Ask, Don't Tell",
+    "subtitle": "Debating the Gay Ban in the Military",
+    "authors": [
+     "Aaron Belkin",
+     "Geoffrey Bateman"
+    ],
+    "publisher": "Lynne Rienner Publishers",
+    "publishedDate": "2003-01",
+    "description": "Conservatives and liberals agree that President Bill Clinton's effort to lift the military's gay ban was perhaps one of the greatest blunders of his tenure in office. In this text, experts of both persuasions come together to debate the critical aspects of the gays-in-the-military issue.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1588261468"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781588261465"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 201,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=G_UjERPhyfQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=G_UjERPhyfQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=G_UjERPhyfQC&pg=PA69&dq=t&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=G_UjERPhyfQC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Don_t_Ask_Don_t_Tell.html?hl=&id=G_UjERPhyfQC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Don_t_Ask_Don_t_Tell-sample-epub.acsm?id=G_UjERPhyfQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=G_UjERPhyfQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "WHEN FORMER PRESIDENT BILL CLINTON ATTEMPTED TO COMPEL THE \u003cbr\u003e\nPENTA- gon to allow known gays and lesbians to serve in the military at the \u003cbr\u003e\nbeginning of his administration, Congress reacted by including a new policy on \u003cbr\u003e\nhomosexual soldiers in the 1994 National Defense Authorization Act. According \u003cbr\u003e\nto the compromise referred to as &quot;Don&#39;\u003cb\u003et\u003c/b\u003e Ask, Don&#39;\u003cb\u003et\u003c/b\u003e Tell,&quot; known homosexuals are \u003cbr\u003e\nnot allowed to serve in the U.S. armed forces. Military recruiters no longer are \u003cbr\u003e\nsupposed to&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mCX05Bb8QbUC",
+   "etag": "JbJgf9iiIsQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mCX05Bb8QbUC",
+   "volumeInfo": {
+    "title": "T Cell Protocols",
+    "subtitle": "Development and Activation",
+    "authors": [
+     "Kelly P. Kearse"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2000",
+    "description": "In T Cell Protocols: Development and Activation, Kelly P. Kearse and a panel of laboratory experts describe the step-by-step execution of a wide variety of basic and specialized techniques for the study of T cell developmental biology and of their subsequent activation. Readily reproducible, the techniques are explained concisely, but in such detail that they are suitable for both the novice and experienced investigator. Coverage includes treatment of both fundamental and novel experimental protocols for the analysis of the role T cells play in immune function and in the prevention and cure of human diseases. Practical and timely, T Cell Protocols: Development and Activation offers basic scientists and clinical investigators a valuable compendium of key protocols that will improve skills with existing methods, as well as afford rapid mastery of powerful new techniques.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781592596829"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1592596827"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=mCX05Bb8QbUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=mCX05Bb8QbUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=mCX05Bb8QbUC&pg=PA185&dq=t&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=mCX05Bb8QbUC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/T_Cell_Protocols.html?hl=&id=mCX05Bb8QbUC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/T_Cell_Protocols-sample-pdf.acsm?id=mCX05Bb8QbUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mCX05Bb8QbUC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Introduction \u003cb\u003eT\u003c/b\u003e-cell hybridomas were first produced some 20 yr ago (1). They have \u003cbr\u003e\nbeen used for research in almost all aspects of \u003cb\u003eT\u003c/b\u003e-cell biology ranging from \u003cbr\u003e\nexperiments on \u003cb\u003eT\u003c/b\u003e-cell receptors and their specificity to the cytokines produced by \u003cbr\u003e\n\u003cb\u003eT\u003c/b\u003e cells and the factors that lead to \u003cb\u003eT\u003c/b\u003e-cell death. For biological studies, \u003cb\u003eT\u003c/b\u003e-cell \u003cbr\u003e\nhybridomas have several advantages over normal \u003cb\u003eT\u003c/b\u003e cells and \u003cb\u003eT\u003c/b\u003e-cell lines. \u003cb\u003eT\u003c/b\u003e-cell \u003cbr\u003e\nhybridomas grow rapidly in tissue culture. Their proliferation does not require \u003cbr\u003e\ncomponents&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RMJ-uudD-EMC",
+   "etag": "WeUac2Z8dOk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RMJ-uudD-EMC",
+   "volumeInfo": {
+    "title": "The Ultimate T-shirt Book",
+    "subtitle": "Creating Your Own Unique Designs",
+    "authors": [
+     "Deborah Morgenthal"
+    ],
+    "publisher": "Lark Books",
+    "publishedDate": "1998",
+    "description": "Offers crafters of all levels the information and inspiration needed to transform a plain T-Shirt into a unique piece of art. Colour photos.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1579900178"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781579900175"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=RMJ-uudD-EMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=RMJ-uudD-EMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=RMJ-uudD-EMC&pg=PA6&dq=t&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=RMJ-uudD-EMC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Ultimate_T_shirt_Book.html?hl=&id=RMJ-uudD-EMC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=RMJ-uudD-EMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It seems like a long, long time ago that \u003cb\u003eT\u003c/b\u003e-shirts meant underwear. For most of us, \u003cbr\u003e\nthey have become a clothing essential and a reflection of who we are. Luckily, \u003cbr\u003e\nunlike other wardrobe necessities, \u003cb\u003eT\u003c/b\u003e-shirts are cheap enough to purchase by the \u003cbr\u003e\ndozen. 1 have casual \u003cb\u003eT&#39;s\u003c/b\u003e for wearing to the grocery store; well-worn favorites for \u003cbr\u003e\nsleeping in; tattered-but-cherished friends perfect for cleaning the house in; shirts \u003cbr\u003e\nin this season&#39;s colors to accessorize office attire; designer styles that announce \u003cbr\u003e\nthat&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3lM-9eIq9W0C",
+   "etag": "K0KtvJ71Ho4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3lM-9eIq9W0C",
+   "volumeInfo": {
+    "title": "T-shirt Makeovers",
+    "subtitle": "20 Transformations for Fabulous Fashions",
+    "authors": [
+     "Sistahs of Harlem",
+     "Carmia Marshall",
+     "Carmen Webber"
+    ],
+    "publisher": "Glitterati Incorporated",
+    "publishedDate": "2006",
+    "description": "Carmen Webber, you'll rarely meet anyone as eclectic as Carmen. Her in-depth passion for fashion, fine arts, performing arts, current affairs and education is completely unshakable. She is the co-author of T-Shirt Makeovers, Denim Mania and Chic Sweats",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780977753178"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0977753174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Crafts & Hobbies"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3lM-9eIq9W0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3lM-9eIq9W0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3lM-9eIq9W0C&pg=PA2&dq=t&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=3lM-9eIq9W0C&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/T_shirt_Makeovers.html?hl=&id=3lM-9eIq9W0C"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3lM-9eIq9W0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "You have been roaming town all day in a simple \u003cb\u003et\u003c/b\u003e-shirt and just found out about a \u003cbr\u003e\nparty starting about now. With scissors, thread, and simple hand sewing, here&#39;s \u003cbr\u003e\nhow to remake a \u003cb\u003et\u003c/b\u003e-shirt in 15 minutes or less. You would think it would take you \u003cbr\u003e\nthe entire business day to produce this first-rate garment. Just think, it only took \u003cbr\u003e\n15 minutes to create this genius and you can even create lace options at a later \u003cbr\u003e\ndate. Change the colors of the lace every time you feel necessary. Have a strip of \u003cbr\u003e\n\u003cb\u003et\u003c/b\u003e-shirt&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bLB62DUR4mgC",
+   "etag": "UUxsQZjmIMM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bLB62DUR4mgC",
+   "volumeInfo": {
+    "title": "T Cells In Arthritis",
+    "authors": [
+     "P. Miossec",
+     "W. van den Berg",
+     "G. Firestein"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "1998-07-21",
+    "description": "Rheumatoid arthritis (RA) is the most common and most severe form of inflammatory arthritis. The pathogenesis of RA has been the subject of intense research for several decades. The prevailing hypotheses have changed over the years, and have attempted to incorporate the most recent data. Although T cells represent an important component of the cells which infiltrate the joint synovium, their contribution at a late stage of the disease remains a matter of debate. The goal of this book is to outline the major arguments and data suggesting that T cells may, or may not, be central players in the pathogenesis of chronic RA. While each of the editors and authors has his/her own bias (as will be clear by reading the respective chapters), our hope is that the readers will enjoy a complete and balanced view of the critical questions and experiments. This is not just an intellectual exercise since the direction of future therapeutic interventions depends heavily on how one interprets the pathogenesis of RA and the contribution of T cells.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "376435853X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783764358532"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=bLB62DUR4mgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=bLB62DUR4mgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=bLB62DUR4mgC&pg=PA1&dq=t&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=bLB62DUR4mgC&dq=t&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/T_Cells_In_Arthritis.html?hl=&id=bLB62DUR4mgC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/T_Cells_In_Arthritis-sample-epub.acsm?id=bLB62DUR4mgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/T_Cells_In_Arthritis-sample-pdf.acsm?id=bLB62DUR4mgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=bLB62DUR4mgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eT\u003c/b\u003e. cells. as. secondary. players. in. rheumatoid. arthritis. Katherine H. Y Nguyen \u003cbr\u003e\nand Gary S. Firestein Division of Rheumatology, UCSD School of Medicine, 9500 \u003cbr\u003e\nGilman Drive, La Jolla, CA 92093, USA Rheumatoid arthritis (RA) is a chronic \u003cbr\u003e\ninflammatory disease that affects about 1% of the general population worldwide [\u003cbr\u003e\n1]. The pathogenesis of RA remains a subject of debate, and many paradigms \u003cbr\u003e\nhave been proposed and disputed over the years. The concept of autoimmunity \u003cbr\u003e\nin RA&nbsp;..."
+   }
+  }
+ ]
+}

@@ -1,0 +1,845 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 2826,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "3mr7UMi1CpQC",
+   "etag": "m4ry981zOk8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3mr7UMi1CpQC",
+   "volumeInfo": {
+    "title": "Dragonkeeper",
+    "publisher": "Penerbit Matahati",
+    "publishedDate": "2012",
+    "description": "Ancient China, Han Dynasty. A slave girl saves the life of an egeing dragon and escapes her brutal master. Pursued by a ruthless dragon hunter, the girl and the dragon make an epic journey across China carrying a mysterious stone that must be protected.",
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3mr7UMi1CpQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3mr7UMi1CpQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3mr7UMi1CpQC&dq=dog&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=3mr7UMi1CpQC&dq=dog&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dragonkeeper.html?hl=&id=3mr7UMi1CpQC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3mr7UMi1CpQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ancient China, Han Dynasty."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "r0vDCwAAQBAJ",
+   "etag": "zvnJdUiaBHg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r0vDCwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Dog Book",
+    "subtitle": "Dogs of Historical Distinction",
+    "authors": [
+     "Kathleen Walker-Meikle"
+    ],
+    "publisher": "Bloomsbury Publishing",
+    "publishedDate": "2014-08-10",
+    "description": "The perfect gift for any dog lover, this is the story of man's best friend from the canine gods of Ancient Egypt to the heroic mascots of the Second World War. Over the millennia dogs have been hailed as gods, demons, saints, military heroes, even reigning kings – and all the while have been the keen hunters, loyal guards and beloved pets we know today. They feature in Egyptian myth, classical astronomy, medieval romances and early modern portraiture; they took part in the court-life of Imperial China, in early Hollywood film studios and in intrepid expeditions to the North Pole. Featuring the pampered pets of Queen Victoria and Pablo Picasso, popular medieval dog names, regimental mascots of the Napoleonic Wars and tales of canine loyalty through the ages, this beautifully illustrated volume shows how dogs have for millennia been the beloved companions of peasants and princes alike.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781783660292"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1783660295"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 144,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=r0vDCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=r0vDCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=r0vDCwAAQBAJ&printsec=frontcover&dq=dog&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=r0vDCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-r0vDCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 6.47,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=r0vDCwAAQBAJ&rdid=book-r0vDCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 6470000.0,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Dog_Book-sample-epub.acsm?id=r0vDCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Dog_Book-sample-pdf.acsm?id=r0vDCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=r0vDCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The perfect gift for any dog lover, this is the story of man&#39;s best friend from the canine gods of Ancient Egypt to the heroic mascots of the Second World War."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YeAoDwAAQBAJ",
+   "etag": "FdIkIcQ5yO8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YeAoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "How the Dog Became the Dog",
+    "authors": [
+     "Mark Derr"
+    ],
+    "publisher": "Gerald Duckworth & Co",
+    "publishedDate": "2012-09-17",
+    "description": "That the dog evolved from the wolf is an accepted fact of evolution, but the question of how wolf became dog has remained a mystery, obscured by myth and legend. How the Dog Became the Dog presents the 'domestication' of the dog as a biological and cultural process that began with cooperation and has taken a number of radical turns since. At the end of the last Ice Age, the first dogs emerged with their humans from refuge against the cold. In the eighteenth century, humans began the drive to exercise full control of dog reproduction, life and death, to complete the domestication of the wolf that began so long ago.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780715644188"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0715644181"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YeAoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YeAoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=YeAoDwAAQBAJ&printsec=frontcover&dq=dog&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YeAoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-YeAoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 8.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 5.83,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YeAoDwAAQBAJ&rdid=book-YeAoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8990000.0,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 5830000.0,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/How_the_Dog_Became_the_Dog-sample-epub.acsm?id=YeAoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/How_the_Dog_Became_the_Dog-sample-pdf.acsm?id=YeAoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YeAoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "How the Dog Became the Dog presents the &#39;domestication&#39; of the dog as a biological and cultural process that began with cooperation and has taken a number of radical turns since."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3wJyAQAACAAJ",
+   "etag": "16bnr6wgtso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3wJyAQAACAAJ",
+   "volumeInfo": {
+    "title": "Left & Right",
+    "authors": [
+     "Lorna Hendry"
+    ],
+    "publishedDate": "2017",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742034438"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742034430"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Left and right (Psychology)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3wJyAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3wJyAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=3wJyAQAACAAJ&dq=dog&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=3wJyAQAACAAJ&dq=dog&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Left_Right.html?hl=&id=3wJyAQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3wJyAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Left and right are all around us. From our hands and feet to our eyes and ears, the notion of left and right is inescapable. Left and right control how we travel and play sport, and even how we eat."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NAVwDgAAQBAJ",
+   "etag": "Ongq5A58ZMc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NAVwDgAAQBAJ",
+   "volumeInfo": {
+    "title": "A Different Dog",
+    "authors": [
+     "Paul Jennings"
+    ],
+    "publisher": "Allen & Unwin",
+    "publishedDate": "2017-04-26",
+    "description": "The forest is dense and dark. And the trail full of unexpected perils. The dog can't move. The boy can't talk. And you won't know why. Or where you are going. You will put this story down not wanting the journey to end. But it's from Paul Jennings so watch out for the ambush. One of the best. From one of the best.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781925576825"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1925576825"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=NAVwDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=NAVwDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=NAVwDgAAQBAJ&printsec=frontcover&dq=dog&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=NAVwDgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-NAVwDgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.49,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 8.24,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=NAVwDgAAQBAJ&rdid=book-NAVwDgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.349E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 8240000.0,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/A_Different_Dog-sample-epub.acsm?id=NAVwDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/A_Different_Dog-sample-pdf.acsm?id=NAVwDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=NAVwDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The dog can&#39;t move. The boy can&#39;t talk. And you won&#39;t know why. Or where you are going. You will put this story down not wanting the journey to end. But it&#39;s from Paul Jennings so watch out for the ambush. One of the best."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YcNLMQAACAAJ",
+   "etag": "UHVqCJpr8Qg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YcNLMQAACAAJ",
+   "volumeInfo": {
+    "title": "Finding Nevo",
+    "authors": [
+     "Nevo Zisin"
+    ],
+    "publisher": "Black Dog Books",
+    "publishedDate": "2017-05",
+    "description": "Meet Nevo: girl, boy, he, she, him, her, they, them, daughter, son, teacher, student, friend, gay, bi, lesbian, trans, homo, Jew, dyke, masculine, feminine, androgynous, queer. Nevo was not born in the wrong body. Nevo just wants everyone to catch up with all that Nevo is. Personal, political and passionate, Finding Nevo is an autobiography about gender and everything that comes with it.....",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1925381188"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781925381184"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Transgender people"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YcNLMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YcNLMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=YcNLMQAACAAJ&dq=dog&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=YcNLMQAACAAJ&dq=dog&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Finding_Nevo.html?hl=&id=YcNLMQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YcNLMQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;A gorgeous coming of age story about one person&#39;s journey to discover themselves. Zisin is a compelling storyteller with a delightful and exciting new voice.&quot; Back cover."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fsx-aB07ZPsC",
+   "etag": "OY1VzsrmH7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fsx-aB07ZPsC",
+   "volumeInfo": {
+    "title": "The Lost Dog",
+    "authors": [
+     "Michelle de Kretser"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2012-05-31",
+    "description": "Tom Loxley is holed up in a cottage in the bush, trying to finish his book on Henry James, when his dog goes missing, trailing a length of orange twine. As Tom searches it becomes clear that he needs to unravel other puzzles in his life and the story shifts between past and present, taking in his parents' mixed-race marriage in India, their arrival in Australia in the 1970s, Tom's own failed marriage, and his current involvement with Nelly Zhang, an artist with her own secrets and mysteries. Longlisted for the Man Booker Prize 2008.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448138432"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448138434"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.9.4.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=fsx-aB07ZPsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=fsx-aB07ZPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=fsx-aB07ZPsC&printsec=frontcover&dq=dog&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=fsx-aB07ZPsC&dq=dog&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Lost_Dog.html?hl=&id=fsx-aB07ZPsC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Lost_Dog-sample-epub.acsm?id=fsx-aB07ZPsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fsx-aB07ZPsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As Tom searches it becomes clear that he needs to unravel other puzzles in his life and the story shifts between past and present, taking in his parents&#39; mixed-race marriage in India, their arrival in Australia in the 1970s, Tom&#39;s own ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WKcaQG7csYAC",
+   "etag": "+WVrK7NsVxI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WKcaQG7csYAC",
+   "volumeInfo": {
+    "title": "The Curious Incident of the Dog in the Night-time",
+    "subtitle": "Vintage Children's Classics",
+    "authors": [
+     "Mark Haddon"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2012-08-02",
+    "description": "'Lots of things are mysteries. But that doesn't mean there isn't an answer to them' This is Christopher's murder mystery story. There are also no lies in this story because Christopher can't tell lies. Christopher does not like strangers or the colours yellow or brown or being touched. On the other hand, he knows all the countries in the world and their capital cities and every prime number up to 7507. When Christopher decides to find out who killed the neighbour's dog, his mystery story becomes more complicated than he could have ever predicted. BACKSTORY: Meet the author and learn about the background to Christopher's story.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448139859"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448139856"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3780,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.14.9.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WKcaQG7csYAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WKcaQG7csYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=WKcaQG7csYAC&printsec=frontcover&dq=dog&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WKcaQG7csYAC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-WKcaQG7csYAC"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 12.99,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WKcaQG7csYAC&rdid=book-WKcaQG7csYAC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.299E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/The_Curious_Incident_of_the_Dog_in_the_N-sample-epub.acsm?id=WKcaQG7csYAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WKcaQG7csYAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;Lots of things are mysteries. But that doesn&#39;t mean there isn&#39;t an answer to them&#39; This is Christopher&#39;s murder mystery story. There are also no lies in this story because Christopher can&#39;t tell lies."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vu00vgAACAAJ",
+   "etag": "o1pVVC9aw5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vu00vgAACAAJ",
+   "volumeInfo": {
+    "title": "Pawtraits",
+    "authors": [
+     "Ken Drake"
+    ],
+    "publisher": "New Holland Publishers (UK)",
+    "publishedDate": "2016-11-01",
+    "description": "Pawtraits is a stunning photographic collection capturing man's best friends at their most adorable, playful, mischievous and downright lovable selves. Each Pawtrait is an artwork in itself - a beautiful, personal 'tail' of the love between a dog and their human - captured in Zoo Studio's signature style. Since 2006, Zoo Studio photographer Ken Drake has photographed over 9,000 pets - this book is a selection of his favourite photos. \"It is our passion, our soul, our life - every pet deserves to be celebrated and have their story told!\" says Ken, who has won over 120 professional photography awards and has won outright some of the biggest international photography competitions in the world. Animal lovers & photographic art connoisseurs alike will fall in love with this book. A portion of the sales of Pawtraits will be donated to the animal welfare charity RSPCA.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1742579272"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781742579276"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vu00vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vu00vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=vu00vgAACAAJ&dq=dog&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.au/books?id=vu00vgAACAAJ&dq=dog&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Pawtraits.html?hl=&id=vu00vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vu00vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Animal lovers &amp; photographic art connoisseurs alike will fall in love with this book. A portion of the sales of Pawtraits will be donated to the animal welfare charity RSPCA."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "l-fACwAAQBAJ",
+   "etag": "fP2cpGBX4g4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l-fACwAAQBAJ",
+   "volumeInfo": {
+    "title": "Between a Wolf and a Dog",
+    "authors": [
+     "Georgia Blain"
+    ],
+    "publisher": "Scribe Publications",
+    "publishedDate": "2016-03-28",
+    "description": "WINNER OF THE 2017 VICTORIAN PREMIER'S LITERARY AWARD FOR FICTION WINNER OF THE 2016 UNIVERSITY OF QUEENSLAND FICTION BOOK AWARD SHORTLISTED FOR THE 2017 STELLA PRIZE Outside, the rain continues unceasing; silver sheets sluicing down, the trees and shrubs soaking and bedraggled, the earth sodden, puddles overflowing, torrents coursing onwards, as the darkness slowly softens with the dawn. Ester is a family therapist with an appointment book that catalogues the anxieties of the middle class: loneliness, relationships, death. She spends her days helping others find happiness, but her own family relationships are tense and frayed. Estranged from both her sister, April, and her ex-husband, Lawrence, Ester wants to fall in love again. Meanwhile, April is struggling through her own directionless life; Lawrence’s reckless past decisions are catching up with him; and Ester and April's mother, Hilary, is about to make a choice that will profoundly affect them all. Taking place largely over one rainy day in Sydney, and rendered with the evocative and powerful prose Blain is known for, Between a Wolf and a Dog is a celebration of the best in all of us — our capacity to live in the face of ordinary sorrows, and to draw strength from the transformative power of art. Ultimately, it is a joyous tribute to the beauty of being alive. PRAISE FOR GEORGIA BLAIN ‘[An] elegant, intelligent and affecting novel from a writer at the height of her powers.’ The Saturday Paper ‘Like all her novels, Between a Wolf and a Dog explores the often unarticulated complexities of the intersection of the personal and the political with exquisite grace and intelligence.’ Australian Book Review",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781925307481"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1925307484"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=l-fACwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=l-fACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.au/books?id=l-fACwAAQBAJ&printsec=frontcover&dq=dog&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=l-fACwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-l-fACwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "AU",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "AUD"
+    },
+    "retailPrice": {
+     "amount": 12.01,
+     "currencyCode": "AUD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=l-fACwAAQBAJ&rdid=book-l-fACwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "AUD"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.201E7,
+       "currencyCode": "AUD"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "AU",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Between_a_Wolf_and_a_Dog-sample-epub.acsm?id=l-fACwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.au/books/download/Between_a_Wolf_and_a_Dog-sample-pdf.acsm?id=l-fACwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=l-fACwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PRAISE FOR GEORGIA BLAIN ‘[An] elegant, intelligent and affecting novel from a writer at the height of her powers.’ The Saturday Paper ‘Like all her novels, Between a Wolf and a Dog explores the often unarticulated complexities of the ..."
+   }
+  }
+ ]
+}
